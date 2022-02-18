@@ -1,0 +1,8 @@
+22-02-16 23:57:47 WARNING-log warning msg
+22-02-17 00:01:15 WARNING-log warning msg
+22-02-17 00:04:03 viewData WARNING log warning msg
+22-02-17 00:12:00 viewData WARNING log warning msg
+22-02-17 10:23:26 viewData WARNING log warning msg
+22-02-17 10:40:20 viewData ERROR log error msg
+22-02-17 12:15:15 inserIntoTable WARNING log warning msg
+22-02-17 12:16:05 viewData WARNING log warning msg
